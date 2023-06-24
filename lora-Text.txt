@@ -1,0 +1,38 @@
+----supercum----
+[<lora:supercum:0.8>(((supercum))):0.9]
+water,facial,cum on hair,cum on clothes,bukkake
+
+--------ahegao-------------
+(wide angle),full body, eyelashes, woman,ahegao,(((((bukkake,facial,cum))))), parted lips,(shiny skin:1.1),blush,(outdoors), photo referenced,best quality, ultra high res, (photorealistic:1.4), (detailed face and eyes),realcumAI, Style-Moana
+ahegao,rolling_eyes
+
+-----mahalaiuniform------
+(photorealistic:1.4),Best quality, masterpiece, ultra high res,looking at viewer,libary background ,(ํ1girl),(white shirt short sleeves),((black pencil skirt)),belt,pose in libary,dynamic pose , <lora:nisit:0.8> <lora:mixfaceL2-000001:0.8>
+mahalaiuniform,white shirt short sleeves,black pencil skirt,black pleated skirt
+
+---------Thai Massage Dress------------
+(best quality:1.4), (ultra highres:1.2), (photorealistic:1.4), (direct front portrait shot)(8k, RAW photo:1.2),(portrait shot:1.4), (southeast asian girl), (light brown hair),(purple Thai Massage uniform :1.3),<lora:ThaiMassageDressV2:0.7> ,<lora:koreanDollLikeness_v10:0.2>
+,thai massage dress,thai massage uniform
+
+-----AirAsia Stewardess Uniform------
+airasia uniform
+
+----nurse_uniform------
+1girl, realistic, photorealistic, best quality, nurse, <lora:nurseUniform_v11:0.6>, white nurse uniform, from above,,, solo, nsfw, 
+
+---Thai nurse----
+(photorealistic:1.2),(medium shot:1),nurse sit in coffee shop, (smile:1), (rim light), , <lora:Thai nurse:0.7>
+
+------shibari เชือก----------
+photorealistic, beautiful, masterpiece, long hair, realistic, solo,(photorealistic:1.4), best quality, seductive pose, nsfw, shibari, Japanese Bondage, rope, <lora:shibari_V20:1>, best , face, t-shirt
+
+-----KangKengChangV3----
+(best quality:1.4), (ultra highres:1.2), (photorealistic:1.4), (8k, RAW photo:1.2), (1girl), (shake her ass:1.4),(short hair:1.5), wearing (plain white shirt:1.3) and (black KangKengChang pants with big white elephant pattern :1.3), <lora:koreanDollLikeness_v10:0.3>, <lora:KangKengChangV3:0.7>
+
+-----SexyPatungV3-----
+UPPER PATUNG DRESS
+BUSTY PATUNG DRESS
+LOWER PATUNG DRESS
+BIKINI PATUNG DRESS
+BIKINI PATUNG SKIRT
+(best quality:1.4), (ultra highres:1.2), (photorealistic:1.4), (8k, RAW photo:1.2), 1girl,(portrait shot) ,(light brown hair), (upper patung dress:1.3), natural light, rim light, <lora:koreanDollLikeness_v10:0.4>, <lora:SexyPatungV3:0.8>
